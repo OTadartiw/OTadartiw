@@ -26,10 +26,13 @@ Le logiciel OTadartiw est testé sur les versions 86 et 64 bits de Windows 7, Wi
 
 ## Version 32 bits
 ```bash
-si la version de votre Windows 32 ou 86, vous devez installer la version 32 Bits
+Si la version de votre Windows 32 ou 86, vous devez installer la version 32 Bits
 ```
 
-## Version 32 bits
+## Version 64 bits
 ```bash
-si la version de votre Windows 64, vous devez installer la version 64 Bits
+Si la version de votre Windows 64, vous devez installer la version 64 Bits
 ```
+
+## version de OTadartiw Demo
+## Version OTadartiw officielle
