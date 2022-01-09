@@ -34,5 +34,14 @@ Si la version de votre Windows 32 ou 86, vous devez installer la version 32 Bits
 Si la version de votre Windows 64, vous devez installer la version 64 Bits
 ```
 
-## version de OTadartiw Demo
+## Version de OTadartiw Demo
+La version Demo est sur le bureau sous le nom OTadartiw Demo
+Cette version va permettre aux utilisateurs de logiciel OTadartiw d'effectuer des tests afin de comprendre son fonctionnement
+OTadartiw Demo c'est un test fictif pour un village de plus de 2000 citoyens
+avant d'utiser la version officielle, ou vous avez un doute sur une fonctionnaliteé la version OTadartiw Demo vous permet de tester la fonctionnalité avant de la reproduire sur OTadartiw Officielle
+vous pouvez tester les différents modules de OTadartiw sur OTadartiw Demo
 ## Version OTadartiw officielle
+La version Officielle est sur le bureau sous le nom OTadartiw
+Cette version c'est la version officielle de gestion du village ou du quartier.
+Dans OTadartiw vous deevez introduire les citoyens
+Vous pouvez utiliser les différents modules pour bien gérer le village ou le quartier
