@@ -38,13 +38,13 @@ La date de sortie de la version actuelle 1.2.2 est le 01-01-2972 correspondant a
 ### Version 32 bits
 ```bash
 Si la version de votre Windows 32 ou 86, vous devez installer la version 32 Bits
-Télécharger cette version [OTadartiw 32 Bits ou 86 Bits](https://drive.google.com/drive/folders/1-kyXPUcspmkV93d2J2JJH3E45tk0cs0K?usp=sharing)
+Télécharger cette version ![OTadartiw 32 Bits ou 86 Bits](https://drive.google.com/drive/folders/1-kyXPUcspmkV93d2J2JJH3E45tk0cs0K?usp=sharing)
 ```
 
 ### Version 64 bits
 ```bash
 Si la version de votre Windows 64, vous devez installer la version 64 Bits
-Télécharger cette version [OTadartiw 64 Bits](https://drive.google.com/drive/folders/1-ZGZr1Wae2pM2K3WyOnG0aXVT4Qy9ZpE?usp=sharing)
+Télécharger cette version ![OTadartiw 64 Bits](https://drive.google.com/drive/folders/1-ZGZr1Wae2pM2K3WyOnG0aXVT4Qy9ZpE?usp=sharing)
 ```
 
 ### Version de OTadartiw Demo
