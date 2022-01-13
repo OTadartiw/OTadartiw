@@ -3,6 +3,7 @@
 OTadartiw, c'est un logiciel gratuit de gestion du village et du quartier
 
 ## Mémoration
+
 Ce logiciel est dédié a la mémoire de tous les brulés des incendies sauvages de l'été 2021 dans la region ⵣ et les dégats matériels, animal, psychologiques laissé derrire.
 
 ## Modules de gestions
@@ -22,6 +23,11 @@ Le logiciel OTadartiw est constitué des modules de gestion suivant :
 12.	Gestion des émails.
 13.	Gestion d'importation et d'exportation
 
+## Formation
+
+Pour se former dans les différents modules, une page Facebook est disponible pour ce projet
+[Formations et foire aux questions](https://www.facebook.com/OTechWorld1)
+
 ## Installation
 
 Le logiciel OTadartiw est testé sur les versions 86 et 64 bits de Windows 7, Windows 8, Windows Vista, Windows 10 
@@ -32,11 +38,13 @@ La date de sortie de la version actuelle 1.2.2 est le 01-01-2972 correspondant a
 ### Version 32 bits
 ```bash
 Si la version de votre Windows 32 ou 86, vous devez installer la version 32 Bits
+Télécharger cette version [OTadartiw 32 Bits ou 86 Bits](https://drive.google.com/drive/folders/1-9MOjMj1gky8vKbVZU7yIovySeL3AjYo?usp=sharing).
 ```
 
 ### Version 64 bits
 ```bash
 Si la version de votre Windows 64, vous devez installer la version 64 Bits
+Télécharger cette version [OTadartiw 64 Bits](https://drive.google.com/drive/folders/1-8PDB42JfUZW89198BDu3mRhrFJ0HHuB?usp=sharing).
 ```
 
 ### Version de OTadartiw Demo
@@ -45,6 +53,7 @@ Cette version va permettre aux utilisateurs de logiciel OTadartiw d'effectuer de
 OTadartiw Demo c'est un test fictif pour un village de plus de 2000 citoyens
 avant d'utiser la version officielle, ou vous avez un doute sur une fonctionnaliteé la version OTadartiw Demo vous permet de tester la fonctionnalité avant de la reproduire sur OTadartiw Officielle
 vous pouvez tester les différents modules de OTadartiw sur OTadartiw Demo
+
 ### Version OTadartiw officielle
 La version Officielle est sur le bureau sous le nom OTadartiw
 Cette version c'est la version officielle de gestion du village ou du quartier.
