@@ -9,19 +9,18 @@ Ce logiciel est dédié a la mémoire de tous les brulés des incendies sauvages
 ## Modules de gestions
 
 Le logiciel OTadartiw est constitué des modules de gestion suivant :
-1.Gestion des foyers et citoyens
-2.Gestion des réunions
-3.Gestion des différents activités du village.
-4.Gestion des tâches
-5.gestions des journées de travails par groupe.
-6.Gestion du patrimoines du village.
-7.Gestion de la consommation en eau.
-8.Gestion de la caisse du village (Recettes, Dépenses et dettes).
-9.Gestion des reportings
-10.Gestion des droits d'accès à tous les modules du logiciels.
-11.Gestion des réclamations utilisateurs,
-12.Gestion des emails.
-13.Gestion d'importation et d'exportation
+1. Gestion des foyers et citoyens
+2. Gestion des réunions
+3. Gestion des différents activités du village.
+4. Gestion des tâches
+5. gestions des journées de travails par groupe.
+6. Gestion du patrimoines du village.
+7. Gestion de la consommation en eau.
+8. Gestion de la caisse du village (Recettes, Dépenses et dettes).
+9. Gestion des reportings
+10. Gestion des droits d'accès à tous les modules du logiciels.
+11. Gestion des réclamations utilisateurs,
+12. Gestion des emails.
 
 ## Formation
 
