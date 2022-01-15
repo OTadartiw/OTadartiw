@@ -74,44 +74,44 @@ Vous devez m'écrire sur cet émail : OTadartiw.OTechWorld@gmail.com
 - Suivre les vidéos de formation [ici](https://www.facebook.com/OTechWorld1)
 - Avoir l'intension d'utiliser cette application
 
-## Appel a contribution
-Afin d’utiliser cette application en Tamazight, avec la transcription latin et Tifinigh, on appel à votre contribution.
-Pour contribuer, dans la liste de fichier en haut, télécharger le fichier (Traduction en Tamazight en attente).
-A la fin de la contribution envoyer le fichier vers cet émail  [OTadartiw.OTechWorld@gmail.com](mailto:OTadartiw.OTechWorld@gmail.com)
-Voici quelques phrases à traduire
+## Appel à contribution
+Afin d’utiliser cette application en Tamazight, avec la transcription latin et Tifinigh, on appel à votre contribution.  
+Pour contribuer, dans la liste de fichier en haut, télécharger le fichier (Traduction en Tamazight en attente).  
+A la fin de la contribution envoyer le fichier vers cet émail  [OTadartiw.OTechWorld@gmail.com](mailto:OTadartiw.OTechWorld@gmail.com)  
+Voici quelques phrases à traduire  
 
 | Français | Tamazight (Latin) | Tamazight (Tifinagh) |
 | :--- | :--- | :--- |
-| Les citoyens sont ajoutés avec succès | :--- | :--- |
-| Le Travail est ajouté avec succès | :--- | :--- |
-| Le Travail existe déjà | :--- | :--- |
-| Le Travail est modifié avec succès | :--- | :--- |
-| La Tâche est ajoutée avec succès | :--- | :--- |
-| La Taches existe déjà | :--- | :--- |
-| La Taches est modifiée avec succès | :--- | :--- |
-| Voulez-vous vraiment supprimer ce Travail? | :--- | :--- |
-| La suppression est effectuée avec succès! | :--- | :--- |
-| Voulez-vous vraiment supprimer ces travaux? | :--- | :--- |
-| La suppression est effectuée avec succès! | :--- | :--- |
-| Le type de réunion est ajouté avec succès | :--- | :--- |
-| Le type de réunion existe déjà | :--- | :--- |
-| Le type de réunion est modifié avec succès | :--- | :--- |
-| Voulez-vous vraiment supprimer cette réunion? | :--- | :--- |
-| La suppression est effectuée avec succès! | :--- | :--- |
-| Les citoyens sont ajoutés avec succès | :--- | :--- |
-| La Réunions est ajoutée avec succès | :--- | :--- |
-| Attention, une autre réunion est programmée pour cette journée!! s'il vous plait changer la date!! | :--- | :--- |
-| La Réunions est modifiée avec succès | :--- | :--- |
-| Voulez-vous vraiment supprimer cette tache? | :--- | :--- |
-| La suppression est effectuée avec succès! | :--- | :--- |
-| Le reporting est ajouté avec succès | :--- | :--- |
-| Le reporting existe déjà | :--- | :--- |
-| Le reporting est modifié avec succès | :--- | :--- |
-| La recette ou dépense est ajoutée avec succès | :--- | :--- |
-| La recette ou dépense est Modifiée avec succès | :--- | :--- |
-| Voulez-vous vraiment supprimer cette recette? | :--- | :--- |
-| Voulez-vous vraiment supprimer cette dépense? | :--- | :--- |
-| La suppression est effectuée avec succès! | :--- | :--- |
+| Les citoyens sont ajoutés avec succès | |  |
+| Le Travail est ajouté avec succès | |  |
+| Le Travail existe déjà | |  |
+| Le Travail est modifié avec succès | |  |
+| La Tâche est ajoutée avec succès | |  |
+| La Taches existe déjà | |  |
+| La Taches est modifiée avec succès | |  |
+| Voulez-vous vraiment supprimer ce Travail? | |  |
+| La suppression est effectuée avec succès! | |  |
+| Voulez-vous vraiment supprimer ces travaux? | |  |
+| La suppression est effectuée avec succès! | |  |
+| Le type de réunion est ajouté avec succès | |  |
+| Le type de réunion existe déjà | |  |
+| Le type de réunion est modifié avec succès | |  |
+| Voulez-vous vraiment supprimer cette réunion? | |  |
+| La suppression est effectuée avec succès! | |  |
+| Les citoyens sont ajoutés avec succès | |  |
+| La Réunions est ajoutée avec succès | |  |
+| Attention, une autre réunion est programmée pour cette journée!! s'il vous plait changer la date!! | |  |
+| La Réunions est modifiée avec succès | |  |
+| Voulez-vous vraiment supprimer cette tache? | |  |
+| La suppression est effectuée avec succès! | |  |
+| Le reporting est ajouté avec succès | |  |
+| Le reporting existe déjà | |  |
+| Le reporting est modifié avec succès | |  |
+| La recette ou dépense est ajoutée avec succès | |  |
+| La recette ou dépense est Modifiée avec succès | |  |
+| Voulez-vous vraiment supprimer cette recette? | |  |
+| Voulez-vous vraiment supprimer cette dépense? | |  |
+| La suppression est effectuée avec succès! | |  |
 
 ## Contact
 Contactez-moi par émail [OTadartiw.OTechWorld@gmail.com](mailto:OTadartiw.OTechWorld@gmail.com)
