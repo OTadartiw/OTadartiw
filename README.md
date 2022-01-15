@@ -21,6 +21,7 @@ Le logiciel OTadartiw est constitué des modules de gestion suivant :
 10. Gestion des droits d'accès à tous les modules du logiciels.
 11. Gestion des réclamations utilisateurs,
 12. Gestion des emails.
+13. Gestion d'importation et d'exportation
 
 ## Formation
 
@@ -49,7 +50,6 @@ Télécharger cette version
 ```
 [OTadartiw 64 Bits](https://drive.google.com/drive/folders/1-ZGZr1Wae2pM2K3WyOnG0aXVT4Qy9ZpE?usp=sharing)
 
-
 ### Version de OTadartiw Demo
 La version Demo est sur le bureau sous le nom OTadartiw Demo
 Cette version va permettre aux utilisateurs de logiciel OTadartiw d'effectuer des tests afin de comprendre son fonctionnement
@@ -62,3 +62,16 @@ La version Officielle est sur le bureau sous le nom OTadartiw
 Cette version c'est la version officielle de gestion du village ou du quartier.
 Dans OTadartiw vous deevez introduire les citoyens
 Vous pouvez utiliser les différents modules pour bien gérer le village ou le quartier
+
+## Programmation d'une rencontre
+Afin de programmer une rencontre virtuelle (sur internet) pour vous apportez de l'aide sur ce logiciel et son fonctionnement.
+Vous devez m'écrire sur cette émail : OTadartiw.OTechWorld@gmail.com
+
+### Condition de participation a la rencontre
+- Installation de l’application et faire des tests sur la version OTadartiw Démo
+- Être membre du comité ou accompagné au moins par l'un des membres
+- Suivre les vidéo de formation [ici](https://www.facebook.com/OTechWorld1)
+- Avoir l'intension d'utiliser cette application
+
+## Contact
+Contactez moi par émail [OTadartiw.OTechWorld@gmail.com](mailto:OTadartiw.OTechWorld@gmail.com)
