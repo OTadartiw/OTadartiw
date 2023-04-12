@@ -3,9 +3,6 @@
 
 OTadartiw, c'est un logiciel gratuit de gestion du village et du quartier
 
-## Mémoration
-
-Ce logiciel est dédié a la mémoire de tous les brulés des incendies sauvages de l'été 2021 dans la région ⵣ et les dégâts matériels, animal, psychologiques laissé d'arrière.
 
 ## Modules de gestions
 
@@ -15,14 +12,14 @@ Le logiciel OTadartiw est constitué des modules de gestion suivants :
 3. Gestion des différentes activités du village.
 4. Gestion des tâches
 5. gestions des journées de travail par groupe.
-6. Gestion des patrimoines du village.
+6. Gestion du patrimoine du village.
 7. Gestion de la consommation en eau.
 8. Gestion de la caisse du village (Recettes, Dépenses et dettes).
 9. Gestion des reportings
 10. Gestion des droits d'accès à tous les modules du logiciel.
 11. Gestion des réclamations utilisateurs,
 12. Gestion des emails.
-13. Gestion d'importation et d'exportation
+13. Gestion d'importation et d'exportation des données
 
 ## Formation
 
@@ -75,7 +72,7 @@ Vous devez m'écrire sur cet émail : OTadartiw.OTechWorld@gmail.com
 - Avoir l'intension d'utiliser cette application
 
 ## Appel à contribution
-Afin d’utiliser cette application en Tamazight, avec la transcription latin et Tifinigh, on appel à votre contribution.  
+Afin d’utiliser cette application en Tamazight, avec la transcription latine et Tifinigh, on appel à votre contribution.  
 Pour contribuer, dans la liste de fichier en haut, télécharger le fichier (Traduction en Tamazight en attente).  
 A la fin de la contribution envoyer le fichier vers cet émail  [OTadartiw.OTechWorld@gmail.com](mailto:OTadartiw.OTechWorld@gmail.com)  
 Voici quelques phrases à traduire  
