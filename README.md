@@ -1,7 +1,7 @@
 
 # OTadartiw
 
-OTadartiw, c'est un logiciel gratuit de gestion du village et du quartier
+OTadartiw, c'est un logiciel gratuit de gestion du village, quartier et association
 
 
 ## Modules de gestions
@@ -12,7 +12,7 @@ Le logiciel OTadartiw est constitué des modules de gestion suivants :
 3. Gestion des différentes activités du village.
 4. Gestion des tâches
 5. gestions des journées de travail par groupe.
-6. Gestion du patrimoine du village.
+6. Gestion des produits du village.
 7. Gestion de la consommation en eau.
 8. Gestion de la caisse du village (Recettes, Dépenses et dettes).
 9. Gestion des reportings
@@ -25,10 +25,12 @@ Le logiciel OTadartiw est constitué des modules de gestion suivants :
 
 Pour se former dans les différents modules, une page Facebook est disponible pour ce projet
 [Formations et foire aux questions](https://www.facebook.com/OTechWorld1)
+Pour se former dans les différents modules, une chaine youtube est disponible pour ce projet
+[Formations et foire aux questions](https://www.youtube.com/watch?v=_kcVFaSpgOM&list=PLPtr9k5bgbTVbVkUm_jFRuX99TjrPWIbJ)
 
 ## Installation
 
-Le logiciel OTadartiw est testé sur les versions 86 et 64 bits de Windows 7, Windows 8, Windows Vista, Windows 10 
+Le logiciel OTadartiw est testé sur les versions 86 et 64 bits de Windows 7, Windows 8, Windows Vista, Windows 10 , Windows 11 
 
 ## Version
 La date de sortie de la version actuelle 1.2.2 est le 01-01-2972 correspondant a 12-01-2022
@@ -50,7 +52,7 @@ Télécharger cette version
 
 ### Version de OTadartiw Démo
 La version Démo est sur le bureau sous le nom OTadartiw Démo
-Cette version va permettre aux utilisateurs de logiciel OTadartiw d'effectuer des tests afin de comprendre son fonctionnement
+C'est une version pour l'apprentissage, elle va permettre aux utilisateurs de logiciel OTadartiw d'effectuer des tests afin de comprendre son fonctionnement
 OTadartiw Démo c'est un test fictif pour un village de plus de 2000 citoyens
 avant d'utiliser la version officielle, ou vous avez un doute sur une fonctionnalité la version OTadartiw Démo vous permet de tester la fonctionnalité avant de la reproduire sur OTadartiw Officielle
 vous pouvez tester les différents modules de OTadartiw sur OTadartiw Démo
