@@ -33,7 +33,7 @@ Pour se former dans les différents modules, une chaine youtube est disponible p
 Le logiciel OTadartiw est testé sur les versions 86 et 64 bits de Windows 7, Windows 8, Windows Vista, Windows 10 , Windows 11 
 
 ## Version
-La date de sortie de la version actuelle 1.2.2 est le 01-01-2972 correspondant a 12-01-2022
+La date de sortie de la version actuelle 1.3.2 est le 01-01-2974 correspondant a 12-01-2024
 
 ### Version 32 bits
 ```bash
