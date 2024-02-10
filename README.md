@@ -40,7 +40,7 @@ La date de sortie de la version actuelle 1.3.2 est le 01-01-2974 correspondant a
 Si la version de votre Windows 32 ou 86, vous devez installer la version 32 Bits
 Télécharger cette version 
 ```
-[OTadartiw 32 Bits ou 86 Bits](https://drive.google.com/drive/folders/1-kyXPUcspmkV93d2J2JJH3E45tk0cs0K?usp=sharing)
+[OTadartiw 32 Bits ou 86 Bits](https://drive.google.com/file/d/1UYa9M7AQ0X1HtwGZ-Q6TGp8b3vLpr3ya/view?usp=drive_link)
 
 
 ### Version 64 bits
@@ -48,7 +48,7 @@ Télécharger cette version
 Si la version de votre Windows 64, vous devez installer la version 64 Bits
 Télécharger cette version 
 ```
-[OTadartiw 64 Bits](https://drive.google.com/drive/folders/1-ZGZr1Wae2pM2K3WyOnG0aXVT4Qy9ZpE?usp=sharing)
+[OTadartiw 64 Bits](https://drive.google.com/file/d/1-kDnCwlfJtee3djhAT1EipAcwLA5yHeJ/view?usp=drive_link)
 
 ### Version de OTadartiw Démo
 La version Démo est sur le bureau sous le nom OTadartiw Démo
