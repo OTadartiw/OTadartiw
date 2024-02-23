@@ -33,14 +33,14 @@ Pour se former dans les différents modules, une chaine youtube est disponible p
 Le logiciel OTadartiw est testé sur les versions 86 et 64 bits de Windows 7, Windows 8, Windows Vista, Windows 10 , Windows 11 
 
 ## Version
-La date de sortie de la version actuelle 1.3.2 est le 01-01-2974 correspondant a 12-01-2024
+La date de sortie de la version actuelle 1.3.3 est le 10-02-2974 correspondant a 21-02-2024
 
 ### Version 32 bits
 ```bash
 Si la version de votre Windows 32 ou 86, vous devez installer la version 32 Bits
 Télécharger cette version 
 ```
-[OTadartiw 32 Bits ou 86 Bits](https://drive.google.com/file/d/1UYa9M7AQ0X1HtwGZ-Q6TGp8b3vLpr3ya/view?usp=drive_link)
+[OTadartiw 32 Bits ou 86 Bits](https://drive.google.com/file/d/1AiBPGCtj4Lqa6gHouH-9VFC2Ln8bK6p8/view?usp=drive_link)
 
 
 ### Version 64 bits
@@ -48,7 +48,7 @@ Télécharger cette version
 Si la version de votre Windows 64, vous devez installer la version 64 Bits
 Télécharger cette version 
 ```
-[OTadartiw 64 Bits](https://drive.google.com/file/d/1-kDnCwlfJtee3djhAT1EipAcwLA5yHeJ/view?usp=drive_link)
+[OTadartiw 64 Bits](https://drive.google.com/file/d/1S2mWmMKowdiXmRFdJ8Z2zzv-yT2q-Kio/view?usp=drive_link)
 
 ### Version de OTadartiw Démo
 La version Démo est sur le bureau sous le nom OTadartiw Démo
